@@ -1,9 +1,3 @@
-Yonathan Ron
-ID 305731580
-
-Ofir Nesher
-ID 204502926
-
 
 Chunk:
 	A chunk of data file. Contains an offset, bytes of data, and size.
